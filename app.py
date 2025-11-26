@@ -242,4 +242,4 @@ if user_input:
 
 
 st.markdown("---")
-st.caption("Developed by Arun Sajwan | AICTE Electric Vehicle Project")
+st.caption("Developed by Arun Sajwan | ")
